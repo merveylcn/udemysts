@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "petclinic",
+      "type": "com.javaegitimleri.petclinic.PetClinicProperties",
+      "sourceType": "com.javaegitimleri.petclinic.PetClinicProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "petclinic.display-owners-with-pets",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.javaegitimleri.petclinic.PetClinicProperties"
+    }
+  ],
+  "hints": []
+}
